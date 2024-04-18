@@ -1,33 +1,33 @@
-# TEST
+# Test
 
   ##Description
 
-  TEST
+  Test
 
   ##Table of Contents
 
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[Credits](#Credits)
-  -[License](#License)
-  -[Tests](#Tests)
-  -[Questions](#Questions)
+  -[Installation](#Installation)<br/>
+  -[Usage](#Usage)<br/>
+  -[Credits](#Credits)<br/>
+  -[License](#License)<br/>
+  -[Tests](#Tests)<br/>
+  -[Questions](#Questions)<br/>
 
   ##Installation
 
-  TEST
+  Test
 
   ##Usage
 
-  TEST
+  Test
 
   ##Credits
 
-  TEST
+  Test
 
   ##License
 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
+  [![License](https://img.shields.io/badge/license-MPL%202.0-orange.svg)](https://choosealicense.com/licenses/mpl-2.0/)
 
   ##Tests
 
